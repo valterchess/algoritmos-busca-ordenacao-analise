@@ -1,4 +1,4 @@
-package com.gen.algoritimos.busca.main;
+package com.gen.algoritimos.main.busca;
 
 /**
  * O algoritmo faz duas buscas simples

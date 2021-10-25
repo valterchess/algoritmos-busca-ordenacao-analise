@@ -1,10 +1,10 @@
-package com.gen.algoritimos.busca.modelos;
+package com.gen.algoritimos.modelos;
 
-public class Produtos {
+public class Produto {
     private String nome;
     private double preco;
 
-    public Produtos(String nome, double preco) {
+    public Produto(String nome, double preco) {
         this.nome = nome;
         this.preco = preco;
     }
