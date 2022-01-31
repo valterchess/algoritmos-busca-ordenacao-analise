@@ -1,0 +1,12 @@
+package com.princeton.unionfind;
+
+public class testQuickFind {
+
+	public static void main(String[] args) {
+		QuickFindUF test = new QuickFindUF(5);
+		test.union(2, 3);
+		System.out.println(test.connected(2, 3));
+
+	}
+
+}

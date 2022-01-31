@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/valter/eclipse-workspace2020/Algorithms1/.metadata/.plugins/org.eclipse.jdt.core
+4248189404.index
+1228505259.index
+347565572.index

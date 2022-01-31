@@ -1,0 +1,8 @@
+package com.princeton.unionfind;
+
+public class UF {
+	
+	UF(int n) {
+	}
+
+}

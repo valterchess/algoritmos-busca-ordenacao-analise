@@ -1,0 +1,5 @@
+package com.princeton.unionfind;
+
+public class QuickUnionUF {
+
+}
